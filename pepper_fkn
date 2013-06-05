@@ -1,0 +1,6 @@
+# pepper_fkn
+
+a = [3,4,5]
+b = a.map {|i| i*2}
+
+puts b
