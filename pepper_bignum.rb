@@ -15,5 +15,5 @@ def fact_acc(n, acc)
 	end
 end
 
-puts fact(4000)
-puts fact_acc(4000,1)
+puts fact(400)
+puts fact_acc(400,1)
